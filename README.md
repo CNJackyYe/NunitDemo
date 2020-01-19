@@ -1,2 +1,2 @@
-# xUnitDemo
-Notcore xUnitDemo
+# NunitDemo
+Notcore NunitDemo
